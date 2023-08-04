@@ -4,6 +4,8 @@ All information about Piped's federation protocol on Matrix.
 
 ## How to join?
 
+You must first be running a public instance, listed in the instances list. This requirement is in place to limit and curb any potential abuse.
+
 Register on a homeserver with no rate-limiting, or create your own homeserver.
 
 If you would like an account on the `federation.piped.video` homeserver, message [@kavin1337:matrix.org](https://matrix.to/#/@kavin1337:matrix.org) on Matrix.
